@@ -13,6 +13,6 @@
 		<link href="<?php echo base_url('asset/css/metro-bootstrap-responsive.css') ?>" rel="stylesheet">
 		<link href="<?php echo base_url('asset/css/iconFont.css') ?>" rel="stylesheet">
 		<link href="<?php echo base_url('asset/css/custom.css') ?>" rel="stylesheet">
-		<link href="<?php echo base_url('images/blue-metro-icon.png') ?>" rel="shortcut icon">
+		<link href="<?php echo base_url('asset/images/blue-metro-icon.png') ?>" rel="shortcut icon">
 	</head>
 	<body class="metro" style="background-color: #efeae3">

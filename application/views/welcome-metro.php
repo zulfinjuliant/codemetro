@@ -19,7 +19,7 @@
         </ul>
         <div class="no-tablet-portrait no-phone">
             <span class="place-right"></span>
-            <a title="download a Github" href="https://github.com/zulfinjuliant/codemetro" class="element place-right">
+            <a title="Find me at Github" href="https://github.com/zulfinjuliant/codemetro" class="element place-right">
             <span class="icon-github"></span></a>
             <span class="place-right"></span>
             <a title="Support CSS3" href="#" class="element place-right"><span class="icon-css3"></span></a>
@@ -30,7 +30,7 @@
 </nav>
 <!--end navigation bar-->
 <!--begin background-->
-<div style="background: url(images/blue-metro.png) top left no-repeat; background-size: cover; height: 300px;">
+<div style="background: url(asset/images/blue-metro.png) top left no-repeat; background-size: cover; height: 300px;">
     <div class="container" style="padding: 50px 20px">
         <h1 class="fg-white">Code Metro 1.0</h1>
         <h2 class="fg-white">
