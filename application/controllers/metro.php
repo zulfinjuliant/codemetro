@@ -7,5 +7,5 @@ class Metro extends CI_Controller {
       $this->load->view('include/footer');
 	}
 }
-/* End of file front.php */
-/* Location: ./application/controllers/front.php */
+/* End of file metro.php */
+/* Location: ./application/controllers/metro.php */

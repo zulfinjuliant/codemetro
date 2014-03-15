@@ -1,7 +1,7 @@
 <!--begin navigation bar-->
 <nav class="navigation-bar">
     <nav class="navigation-bar-content container">
-        <a href="/" class="element"><span class="icon-grid-view"></span> CODEMETRO <sup>1.0</sup></a>
+        <a href="#" class="element"><span class="icon-grid-view"></span> CODEMETRO <sup>1.0</sup></a>
         <a class="element1 pull-menu" href="#"></a>
         <ul class="element-menu">
             <li>
@@ -19,10 +19,12 @@
         </ul>
         <div class="no-tablet-portrait no-phone">
             <span class="place-right"></span>
-            <a title="Find me at Github" href="https://github.com/zulfinjuliant/codemetro" class="element place-right">
-            <span class="icon-github"></span></a>
+            <a title="Find me at Github" href="https://github.com/zulfinjuliant/codemetro" target="_blank"
+            class="element place-right"><span class="icon-github"></span></a>
+            <!---->
             <span class="place-right"></span>
             <a title="Support CSS3" href="#" class="element place-right"><span class="icon-css3"></span></a>
+            <!---->
             <span class="place-right"></span>
             <a title="Support HTML5" href="#" class="element place-right"><span class="icon-html5"></span></a>
         </div>
@@ -38,13 +40,13 @@
         </h2>
         <!---->
         <a href="https://github.com/zulfinjuliant/codemetro" target="_blank"
-        class="place-left button bg-blue bg-hover-darkCyan fg-white fg-hover-white" style="margin-top: 10px">
-        <h3 style="margin: 10px 40px">Download Here <span class="icon-download on-right"></span></h3>
+        class="place-left button bg-darkCyan bg-hover-blue fg-white fg-hover-white" style="margin-top: 10px">
+        <h3 style="margin: 10px 40px">Download <span class="icon-download on-right"></span></h3>
         </a>
         <!---->
-        <a href="https://github.com/zulfinjuliant/codemetro" target="_blank"
-        class="place-left button bg-blue bg-hover-darkCyan fg-white fg-hover-white" style="margin: 10px">
-        <h3 style="margin: 10px 40px">Tutorial Setup <span class="icon-warning on-right"></span></h3>
+        <a href="https://github.com/zulfinjuliant/codemetro/wiki/Documentation-of-Code-Metro" target="_blank"
+        class="place-left button bg-darkCyan bg-hover-blue fg-white fg-hover-white" style="margin: 10px">
+        <h3 style="margin: 10px 40px">Documentation <span class="icon-file on-right"></span></h3>
         </a>
     </div>
 </div>
@@ -70,5 +72,3 @@
     <!--end the content-->
 </div>
 <br>
-<p class="footer" style="margin-left: 90px"><strong>Developed by
-<a href="http://blog.sysfotech.com" target="_blank">Zulfinjuliant - Sysfotech's Crew</a></strong></p>
