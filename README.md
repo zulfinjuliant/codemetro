@@ -11,5 +11,5 @@ This is release Code Metro 1.0
 
 ## License
 
-Codeigniter License [The License](http://codeigniter.com/user_guide/license.html)
-Metro UI License [MIT License](https://github.com/olton/Metro-UI-CSS/blob/master/LICENSE)
+Codeigniter License : [The License](http://codeigniter.com/user_guide/license.html) and
+Metro UI License : [MIT License](https://github.com/olton/Metro-UI-CSS/blob/master/LICENSE)
