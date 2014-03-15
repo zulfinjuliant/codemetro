@@ -11,7 +11,7 @@ You can read the documentation in [here](https://github.com/zulfinjuliant/codeme
 
 ## Release
 
-This is release Code Metro 1.0
+This is currently a very active project, there are no projected release locks planned. All changes will be latest in master and may be unstable.
 
 ## License
 
