@@ -5,7 +5,11 @@ With this custom Codeigniter framework, you can make a site with an metro UI int
 
 ![Code Metro](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/cover-metro_zpsd0cd9314.png)
 
-## Releases
+## Documentation
+
+You can read the documentation in [here](https://github.com/zulfinjuliant/codemetro/wiki/Documentation-of-Code-Metro)
+
+## Release
 
 This is release Code Metro 1.0
 
