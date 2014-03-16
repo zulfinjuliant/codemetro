@@ -10,7 +10,7 @@ You can read the documentation in here >> [Readme First!! :)](https://github.com
 
 ## Release
 
-This is currently a very active project, there are no projected release locks planned. All changes will be latest in master and may be have bugs, it you find that bugs just contact me, okay :).
+This is currently a very active project. All changes will be latest in master file and may be have bugs, it you find that bugs just contact me, okay :)
 
 ## License
 
