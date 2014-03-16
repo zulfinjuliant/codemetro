@@ -19,7 +19,7 @@
         </ul>
         <div class="no-tablet-portrait no-phone">
             <span class="place-right"></span>
-            <a title="Find me at Github" href="https://github.com/zulfinjuliant/codemetro" target="_blank"
+            <a title="Find me at Github" href="https://github.com/zulfinjuliant" target="_blank"
             class="element place-right"><span class="icon-github"></span></a>
             <!---->
             <span class="place-right"></span>
@@ -44,7 +44,7 @@
         <h3 style="margin: 10px 40px">Download <span class="icon-download on-right"></span></h3>
         </a>
         <!---->
-        <a href="https://github.com/zulfinjuliant/codemetro/wiki/Documentation-of-Code-Metro" target="_blank"
+        <a href="https://github.com/zulfinjuliant/codemetro/wiki" target="_blank"
         class="place-left button bg-darkCyan bg-hover-blue fg-white fg-hover-white" style="margin: 10px">
         <h3 style="margin: 10px 40px">Documentation <span class="icon-file on-right"></span></h3>
         </a>
