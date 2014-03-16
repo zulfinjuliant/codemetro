@@ -5,16 +5,16 @@
         <a class="element1 pull-menu" href="#"></a>
         <ul class="element-menu">
             <li>
-                <a href="#"><i class="icon-cube"></i> Minimalist</a>
+                <a><i class="icon-cube"></i> Minimalist</a>
             </li>
             <li>
-                <a href="#"><i class="icon-rocket"></i> Fast</a>
+                <a><i class="icon-rocket"></i> Fast</a>
             </li>
             <li>
-                <a href="#"><i class="icon-mobile-2"></i> Responsive</a>
+                <a><i class="icon-mobile-2"></i> Responsive</a>
             </li>
             <li>
-                <a href="#"><i class="icon-database"></i> Codeigniter's PHP</a>
+                <a><i class="icon-database"></i> Codeigniter's PHP</a>
             </li>
         </ul>
         <div class="no-tablet-portrait no-phone">
@@ -32,7 +32,7 @@
 </nav>
 <!--end navigation bar-->
 <!--begin background-->
-<div style="background: url(asset/images/blue-metro.png) top left no-repeat; background-size: cover; height: 300px;">
+<div style="background: url(assets/images/blue-metro.png) top left no-repeat; background-size: cover; height: 300px;">
     <div class="container" style="padding: 50px 20px">
         <h1 class="fg-white">Code Metro 1.0</h1>
         <h2 class="fg-white">
@@ -53,7 +53,6 @@
 <!--end background-->
 <!--begin the content-->
 <div id="container"><br>
-    <!--h1 style="margin-left: 50px">Welcome to Code Metro</h1-->
     <div id="body">
         <p style="margin-left: 90px">If you would like to edit this page you'll find it located at:</p>
         <p><code style="margin-left: 90px">application/views/welcome-metro.php</code></p>
