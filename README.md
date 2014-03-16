@@ -6,7 +6,7 @@ It also includes certain libraries such as AWS and Facebook in-case you are deve
 
 ## Documentation
 
-You can read the documentation in [here](https://github.com/zulfinjuliant/codemetro/wiki/Documentation-of-Code-Metro)
+You can read the documentation in here >> [Readme First!! :)](https://github.com/zulfinjuliant/codemetro/wiki)
 
 ## Release
 
