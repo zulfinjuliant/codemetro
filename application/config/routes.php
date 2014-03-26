@@ -37,10 +37,7 @@
 | in the URL cannot be matched to a valid route.
 |
 */
-
 $route['default_controller'] = "metro";
 $route['404_override'] = '';
-
-
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

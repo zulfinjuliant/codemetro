@@ -13,7 +13,7 @@
 		<link href="<?php echo base_url('assets/css/iconFont.css') ?>" rel="stylesheet">
 		<link href="<?php echo base_url('assets/css/custom.css') ?>" rel="stylesheet">
 		<!--FAVICON METRO-->
-		<link href="<?php echo base_url('assets/images/blue-metro-icon.png') ?>" rel="shortcut icon">
+		<link href="<?php echo base_url('assets/images/metro-icon.png') ?>" type="image/ico" rel="shortcut icon">
 	</head>
 	<body class="metro" style="background-color: #ECF0F1">
 <!--end header.php-->
