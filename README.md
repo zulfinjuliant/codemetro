@@ -2,10 +2,17 @@
 
 Code Metro (Codeigniter Metro UI CSS) kick starts the development process of the web development process by including Metro UI CSS into CodeIgniter. With this custom Codeigniter framework, you can make a site with an metro UI interface.
 It also includes certain libraries such as AWS and Facebook in-case you are developing applications requiring those SDKs. So stop writing the same code over again and start working on your idea.
-![Code Metro](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/cover-metro_zps60833bb6.png)
+![Code Metro](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/comet-flatui_zpse42af84c.png)
 
 ## Documentation
-
+Now, in CodeMetro you have Flat UI Colors to have fun with them :). Example for navigation bar :
+```
+<nav class="navigation-bar flatred">
+...
+</nav>
+```
+Color of navigation bar is red!!
+![nav-red]()
 You can read the documentation in here >> [Readme First!! :)](https://github.com/zulfinjuliant/codemetro/wiki)
 
 ## Release
