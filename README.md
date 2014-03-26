@@ -7,13 +7,58 @@ It also includes certain libraries such as AWS and Facebook in-case you are deve
 ## Documentation
 Now, in CodeMetro you have Flat UI Colors to have fun with them :). Example for navigation bar :
 ```
+<!--begin navigation bar-->
 <nav class="navigation-bar flatred">
 ...
 </nav>
 ```
-Color of navigation bar is red!!
-![nav-red]()
-You can read the documentation in here >> [Readme First!! :)](https://github.com/zulfinjuliant/codemetro/wiki)
+Color of navigation bar is red!!<br>
+![nav-red](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/red_zps6cb8fb45.png)
+
+```
+<!--begin navigation bar-->
+<nav class="navigation-bar flatpurple">
+...
+</nav>
+```
+Color of navigation is purple!!<br>
+![nav-purple](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/purple_zps77f12b4a.png)
+```
+<!--begin navigation bar-->
+<nav class="navigation-bar flatnight">
+...
+</nav>
+```
+Color of navigation is night!!<br>
+![nav-night](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/night_zpsb42d4f6d.png)
+```
+<!--begin navigation bar-->
+<nav class="navigation-bar flatyellow">
+...
+</nav>
+```
+Navigation color is yellow!!<br>
+![nav-yellow](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/yellow_zps47526a7a.png)
+```
+<!--begin navigation bar-->
+<nav class="navigation-bar flatorange">
+...
+</nav>
+```
+Navigation color is orange!!<br>
+![nav-orange](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/orange_zpseb1c55ff.png)
+```
+<!--begin navigation bar-->
+<nav class="navigation-bar flatgrey">
+...
+</nav>
+```
+Navigation color is orange!!<br>
+![nav-grey](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/grey_zps2da40d6c.png)
+
+## Instalation
+
+You can read the documentation about instalation in here >> [Readme First!! :)](https://github.com/zulfinjuliant/codemetro/wiki)
 
 ## Release
 
