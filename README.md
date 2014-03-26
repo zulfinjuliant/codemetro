@@ -53,8 +53,9 @@ Navigation color is orange!!<br>
 ...
 </nav>
 ```
-Navigation color is orange!!<br>
+Navigation color is grey!!<br>
 ![nav-grey](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/grey_zps2da40d6c.png)
+You can do well on a button etc :)
 
 ## Instalation
 
